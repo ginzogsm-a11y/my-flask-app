@@ -3,5 +3,9 @@ gunicorn
 flask_sqlalchemy
 flask_login
 flask_wtf
-email_validator
+wtforms
+werkzeug
 python-dotenv
+user-agents
+pymysql
+itsdangerous
